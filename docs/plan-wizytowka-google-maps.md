@@ -85,7 +85,41 @@ Google oficjalnie opiera ranking lokalny na trzech filarach:
 
 ---
 
-## 3. Diagnoza — 5 rzeczy, które dziś blokują HatBud
+## 3. Diagnoza — co mówią dane
+
+### 3.0. Wyszukiwane hasła z panelu wizytówki (top 20)
+
+To są realne frazy, po których klienci trafili na profil. Dane z panelu, nie szacunki.
+
+| Grupa | Frazy | Pozycji w top 20 |
+|---|---|---|
+| **Bramy garażowe** | bramy garażowe brzesko **(19 — jedyna powyżej progu)**, brama uchylna brzesko, bramy garazowe brzesko, bramy garażowe, brzesko bramy garażowe, hormann brzesko | **6** |
+| Okna | okna, okna brzesko, okna dachowe, okna pcv brzesko, okna pcv dachowe, okna piłsudskiego brzesko | 6 |
+| Dach i materiały | blacha brzesko, dachy, rynny brzesko, piana pur | 4 |
+| Marka / nazwa | hatbud, hb stolarka, pełna nazwa profilu z adresem | 3 |
+| Inne lokalne | firma bud. w Rajsku k/Szczurowej pow. brzesko | 1 |
+| **Usługowe** (montaż, wymiana, serwis) | — | **0** |
+
+#### Siedem wniosków
+
+1. **Zero zapytań usługowych.** Kategoria główna „Montaż okien" nie przyniosła ani jednego wejścia. Najsilniejszy pojedynczy sygnał w całym profilu jest dziś marnowany. To rozstrzyga spór o kategorię — zmieniamy na handlową.
+2. **Bramy garażowe to Wasza najmocniejsza fraza**, nie okna. Pozycja 1 i jedyna powyżej progu 15, plus cztery warianty w top 20. Mimo że bramy są tylko kategorią *dodatkową*.
+3. Punkt 2 jest jednocześnie **dowodem z Waszych własnych danych, że kategorie dodatkowe realnie rankują.** Dzięki temu zmiana kategorii głównej jest bezpieczna — „Montaż okien" schodzi na dodatkową i nie znika.
+4. **Okna są obecne, ale rozproszone i wszystkie poniżej progu.** To nie znaczy, że rynek okien jest mały — znaczy, że na oknach konkurencja jest silna i tam Was nie widać. Tu leży największy potencjał do odbicia.
+5. **Dach i materiały generują realny popyt** (blacha, rynny, piana PUR). Hurtownia to nie ciekawostka na boku, tylko realne źródło zapytań — zasługuje na kategorię i na miejsce w ofercie profilu.
+6. **„hormann brzesko"** — ktoś szuka marki, której wg mojego rozpoznania nie macie w portfolio (macie Wiśniowski i Stalprodukt). `[DO SPRAWDZENIA]` Jeśli nie sprzedajecie Hörmanna, to zapytanie konkurencyjne, które da się przechwycić treścią porównawczą na stronie.
+7. **Rynek w Brzesku jest mały.** Najmocniejsza fraza to 19 wyszukiwań, reszta poniżej 15. Na samym Brzesku nie da się zbudować dużego wzrostu — **wyjście na Bochnię i Tarnów przestaje być opcją, a staje się warunkiem.**
+
+#### Zastrzeżenie metodologiczne
+Te dane pokazują, **po czym Was znaleziono**, a nie co ludzie wpisują w Google. Brak fraz usługowych może znaczyć „nikt tak nie szuka" albo „szukają, ale Wasz profil się nie pokazuje" — z samych tych danych nie da się tego rozdzielić. Ale skoro kategoria główna jest usługowa i mimo to nie ma ani jednego trafienia, pierwsza interpretacja jest znacznie bardziej prawdopodobna. `[DO POTWIERDZENIA — jakiego okresu dotyczy to zestawienie]`
+
+---
+
+### 3.1. Sześć rzeczy, które dziś blokują HatBud
+
+### 🔴 P0. Kategoria główna nie pracuje
+
+Kategoria główna „Montaż okien" nie wygenerowała ani jednego zapytania w top 20. Odpowiada za największą część trafności profilu i dziś jest ustawiona na popyt, którego w Mapach w Brzesku po prostu nie widać. **Zmiana na kategorię handlową — szczegóły w pkt. 4, Faza 1.**
 
 ### 🔴 P1. Nazwa wizytówki łamie zasady Google — ryzyko zawieszenia
 Aktualna nazwa: **„Okna, bramy, drzwi, dachy, rynny, Hatbud."**
@@ -143,52 +177,73 @@ To materiał na **część 2** sesji, ale ~19% wagi rankingu lokalnego siedzi w�
 
 ---
 
-### FAZA 1 — Trafność: ustawić profil pod „sprzedaż + montaż" (tydzień 2–4)
-> Cel: żeby Google i AI rozumiały, że HatBud to **wykonawca kompleksowy**, a nie skład budowlany.
+### FAZA 1 — Trafność: przestawić profil na dane z panelu (tydzień 2–4)
+> Cel: kategoria główna na handlową, bramy garażowe wysunięte na pierwszy plan, a cała kompleksowość „sprzedaż + montaż" zapisana w sekcji Usług, gdzie Google i modele AI ją czytają.
+>
+> **Uwaga na kolejność:** zmiana kategorii wchodzi 2–3 tygodnie po zmianie nazwy, nie razem z nią.
 
-#### 1.1 Kategorie — najważniejsza decyzja w całym profilu
-Kategoria główna odpowiada za największą część trafności. Skoro najbardziej opłacalna jest usługa kompleksowa, kategoria główna **musi być usługowa, nie handlowa**:
+#### 1.1 Kategorie — konfiguracja oparta na danych
 
-- **Kategoria główna: `Montaż okien`** ✅ (wygląda na już ustawioną — potwierdzić)
-  Dlaczego nie „Sklep z oknami": kategoria handlowa ściąga ruch porównujący ceny towaru; usługowa ściąga klienta na całość zlecenia (okno + robocizna + demontaż + obróbka + parapet).
+**Zmiana względem pierwszej wersji planu.** Pierwotnie rekomendowałem kategorię usługową, argumentując jakością intencji. Dane z panelu tego nie potwierdziły: zero zapytań usługowych przy usługowej kategorii głównej. Wygrywa argument właściciela — **kategoria główna idzie na handlową**.
 
-- **Kategorie dodatkowe (do 9, dodawać tylko realnie wykonywane):**
-  `Sklep z oknami` · `Dostawca drzwi` / `Sklep z drzwiami` · `Dostawca bram garażowych` · `Serwis bram garażowych` · `Firma dekarska` · `Dostawca rolet` · `Sklep z materiałami budowlanymi` · `Wykonawca robót budowlanych`
+- **Kategoria główna: `Sklep z oknami`**
+  *(w polskim panelu może brzmieć „Dostawca okien" — wybrać istniejący odpowiednik)*
 
-> Nazwy kategorii w polskim panelu bywają inne niż dosłowne tłumaczenia — w wyszukiwarce kategorii wpisz „okna", „bramy", „dekar", „rolety" i wybierz najbliższe istniejące. Zasada: **minimalna liczba kategorii, która opisuje trzon działalności.** Kategorie to nie miejsce na upychanie usług — od tego jest sekcja Usługi.
+  Dlaczego okna, a nie bramy, skoro bramy mają wyższy wolumen: bramy **już** rankują z kategorii dodatkowej i robią to najlepiej ze wszystkiego. Kategorii głównej nie marnuje się na to, co już działa — kieruje się ją tam, gdzie jest luka. Luka jest na oknach: sześć fraz, wszystkie poniżej progu, przy silnej konkurencji. Do tego okna są trzonem przychodu firmy.
+
+- **Kategorie dodatkowe, w kolejności ważności wg danych:**
+
+  | # | Kategoria | Uzasadnienie z danych |
+  |---|---|---|
+  | 1 | `Dostawca bram garażowych` | fraza nr 1 i cztery warianty w top 20 |
+  | 2 | `Montaż okien` | dotychczasowa główna — schodzi niżej, ale zostaje |
+  | 3 | `Sklep z materiałami budowlanymi` | blacha, piana PUR, dachy |
+  | 4 | `Firma dekarska` | dachy, rynny brzesko |
+  | 5 | `Dostawca drzwi` / `Sklep z drzwiami` | brak w top 20, ale realny trzon oferty |
+  | 6 | `Serwis bram garażowych` | naturalne przedłużenie kategorii nr 1 |
+  | 7 | `Dostawca rolet` | realna oferta |
+
+> Nazwy kategorii w polskim panelu bywają inne niż dosłowne tłumaczenia — wpiszcie w wyszukiwarkę kategorii „okna", „bramy", „dekar", „rolety", „materiały budowlane" i wybierzcie najbliższe istniejące. Zasada Google: **minimalna liczba kategorii opisująca trzon działalności.** Kategorie to nie miejsce na usługi — od tego jest osobna sekcja.
+
+**Kolejność wdrożenia — ważne:** nie zmieniajcie nazwy i kategorii w tym samym tygodniu. Najpierw nazwa (Faza 0, bo gasi ryzyko zawieszenia), 2–3 tygodnie na ustabilizowanie, potem kategoria i pomiar. Przy dwóch zmianach naraz nie odróżnicie, co dało jaki efekt.
 
 #### 1.2 Opis firmy (do 750 znaków) — gotowy do wklejenia
 
-> HatBud działa w Brzesku od 2011 roku. Zajmujemy się kompleksowo sprzedażą i profesjonalnym montażem okien PCV, aluminiowych i drewnianych, drzwi zewnętrznych i wewnętrznych, bram garażowych, rolet, parapetów, pokryć dachowych i rynien. Prowadzimy klienta przez całą inwestycję: bezpłatny pomiar u klienta, dobór rozwiązania i wycena, demontaż starej stolarki, montaż zgodny ze sztuką budowlaną, obróbka i uprzątnięcie, a po zakończeniu — serwis i obsługa gwarancyjna. Współpracujemy z markami Wiśniowski, Fakro, Aluprof, Stalprodukt, Voster, Oknodrewal i Regamet. Obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę — klientów indywidualnych, firmy i inwestycje deweloperskie.
+> HatBud działa w Brzesku od 2011 roku. Prowadzimy sprzedaż i montaż bram garażowych, okien PCV, aluminiowych, drewnianych i dachowych, drzwi zewnętrznych i wewnętrznych, rolet, parapetów, pokryć dachowych, rynien oraz materiałów budowlanych. W salonie przy Mościckiego 2 obejrzysz towar na żywo i dobierzesz rozwiązanie z doradcą. Realizujemy całość: bezpłatny pomiar u klienta, wycena, dostawa, demontaż starej stolarki, montaż, obróbka i uprzątnięcie, a po zakończeniu serwis i obsługa gwarancyjna. Współpracujemy z markami Wiśniowski, Fakro, Stalprodukt, Voster, Oknodrewal, Regamet, Rukki i Plannja. Obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę — klientów indywidualnych, firmy i inwestycje.
 
 *(Bez słów typu „najlepszy", „nr 1" — Google traktuje superlatywy w opisie jako naruszenie. Bez adresu i numeru telefonu — na to są osobne pola.)*
 
-#### 1.3 Usługi — sedno strategii „kompleksowo"
-Dodaj każdą pozycję jako osobną usługę z opisem do 300 znaków. **Nazywaj usługami, nie towarami** — to różnica między „Okna PCV" a „Montaż okien PCV".
+#### 1.3 Usługi — tu zapisujemy kompleksowość
+Dodaj każdą pozycję jako osobną usługę z opisem do 300 znaków. Nazwy zaczynają się od **„Sprzedaż i montaż"** — to jest właśnie ta kompleksowość, na której zarabiacie, zapisana tak, żeby Google i klient przeczytali oba człony. Kategoria główna idzie na handel, ale montaż nie znika: przenosi się tutaj, gdzie i tak jest czytany przez Google i przez AI.
+
+Kolejność ustawiona wg danych z panelu.
 
 | Usługa | Szkic opisu |
 |---|---|
-| Montaż okien PCV | Kompleksowa wymiana okien PCV: bezpłatny pomiar, demontaż starej stolarki, montaż na piankę lub ciepły montaż warstwowy, obróbka ościeży, montaż parapetów. Brzesko i okolice. |
-| Montaż okien aluminiowych | Okna i witryny aluminiowe do domów i obiektów użytkowych. Pomiar, dobór profilu, montaż i regulacja. |
-| Montaż okien drewnianych | Stolarka drewniana Oknodrewal — dobór, pomiar, montaż i konserwacja. |
-| Wymiana okien w domu jednorodzinnym | Pełna wymiana stolarki w domu: wycena, harmonogram, demontaż, montaż, obróbka i uprzątnięcie. Realizacja zwykle w 1–2 dni. |
-| Montaż okien dachowych Fakro | Montaż okien dachowych z kołnierzem uszczelniającym, wymiana starych okien połaciowych. |
-| Montaż drzwi zewnętrznych | Drzwi stalowe i drewniane, montaż z regulacją, wymiana ościeżnicy, drzwi antywłamaniowe RC3. |
-| Montaż drzwi wewnętrznych | Pomiar, dobór, montaż drzwi wewnętrznych wraz z ościeżnicami regulowanymi. |
-| Montaż bram garażowych Wiśniowski | Bramy segmentowe i uchylne: pomiar otworu, montaż, napęd, automatyka, uruchomienie. |
-| Serwis i naprawa bram garażowych | Wymiana sprężyn, linek, napędów, regulacja i przeglądy okresowe bram. |
-| Montaż rolet i żaluzji | Rolety zewnętrzne nadstawne i podtynkowe, rolety dzienno-nocne, montaż i automatyka. |
-| Montaż pokryć dachowych | Blachodachówka i panele na zatrzask (Rukki Finnera, Plannja) — pomiar dachu, dostawa, montaż. |
-| Montaż rynien | Systemy rynnowe stalowe i PCV: dobór, montaż, wymiana starych rynien. |
-| Montaż parapetów | Parapety wewnętrzne i zewnętrzne — pomiar, docięcie, montaż. |
-| Montaż desek tarasowych | Tarasy kompozytowe NewTechWood — przygotowanie podkonstrukcji i montaż. |
+| Sprzedaż i montaż bram garażowych | Bramy segmentowe i uchylne Wiśniowski i Stalprodukt: pomiar otworu, dobór, montaż, napęd i automatyka, uruchomienie. Brzesko i okolice. |
+| Serwis i naprawa bram garażowych | Wymiana sprężyn, linek i napędów, regulacja, przeglądy okresowe bram wszystkich typów. |
+| Sprzedaż i montaż okien PCV | Kompleksowa wymiana okien PCV: bezpłatny pomiar, demontaż starej stolarki, montaż na piankę lub ciepły montaż warstwowy, obróbka ościeży, montaż parapetów. |
+| Sprzedaż i montaż okien dachowych Fakro | Okna połaciowe z kołnierzem uszczelniającym, wymiana starych okien dachowych, montaż w istniejącym dachu. |
+| Sprzedaż i montaż okien aluminiowych | Okna i witryny aluminiowe do domów i obiektów użytkowych. Pomiar, dobór profilu, montaż i regulacja. |
+| Sprzedaż i montaż okien drewnianych | Stolarka drewniana Oknodrewal — dobór, pomiar, montaż i konserwacja. |
+| Wymiana okien w domu jednorodzinnym | Pełna wymiana stolarki: wycena, harmonogram, demontaż, montaż, obróbka i uprzątnięcie. Zwykle 1–2 dni robocze. |
+| Sprzedaż i montaż pokryć dachowych | Blachodachówka i panele na zatrzask Rukki Finnera i Plannja — pomiar dachu, dostawa, montaż. |
+| Sprzedaż i montaż rynien | Systemy rynnowe stalowe i PCV: dobór, dostawa, montaż, wymiana starych rynien. |
+| Sprzedaż i montaż drzwi zewnętrznych | Drzwi stalowe i drewniane, w tym antywłamaniowe RC3. Pomiar, montaż z regulacją, wymiana ościeżnicy. |
+| Sprzedaż i montaż drzwi wewnętrznych | Pomiar, dobór i montaż drzwi wewnętrznych wraz z ościeżnicami regulowanymi. |
+| Sprzedaż i montaż rolet | Rolety zewnętrzne nadstawne i podtynkowe, rolety dzienno-nocne, montaż i automatyka. |
+| Sprzedaż i montaż parapetów | Parapety wewnętrzne i zewnętrzne — pomiar, docięcie, montaż. |
+| Sprzedaż i montaż desek tarasowych | Tarasy kompozytowe NewTechWood — przygotowanie podkonstrukcji i montaż. |
+| Sprzedaż materiałów budowlanych | Blacha, piany montażowe i PUR, kleje, akcesoria — sprzedaż detaliczna i hurtowa na miejscu w Brzesku. |
 | Bezpłatny pomiar i wycena | Dojazd do klienta, pomiar otworów, doradztwo techniczne i wycena bez zobowiązań. |
 | Serwis i regulacja stolarki | Regulacja okien i drzwi, wymiana okuć i uszczelek, obsługa gwarancyjna. |
 
-> **Ta lista to jednocześnie mapa podstron dla części 2 (SEO strony).** Każda usługa = jedna podstrona.
+> **Ta lista to jednocześnie mapa podstron dla części 2 (SEO strony)**, i to w tej samej kolejności priorytetów.
 
 #### 1.4 Produkty
-Dodaj 15–25 pozycji z prawdziwymi zdjęciami i widełkami cenowymi (np. „od 1 890 zł"). Podanie ceny „od" zwiększa jakość leada — odsiewa klientów spoza budżetu, a przyciąga zdecydowanych. Grupuj po markach: Wiśniowski, Fakro, Voster, Regamet.
+Dodaj 15–25 pozycji z prawdziwymi zdjęciami i widełkami cenowymi (np. „od 1 890 zł"). Podanie ceny „od" zwiększa jakość leada — odsiewa klientów spoza budżetu, a przyciąga zdecydowanych.
+
+**Kolejność wypełniania wg danych z panelu:** bramy garażowe (najwięcej pozycji — to Wasza najmocniejsza fraza) → okna PCV → okna dachowe Fakro → blachodachówka i pokrycia → rynny → drzwi → rolety → materiały budowlane, w tym piana PUR. Grupuj po markach: Wiśniowski, Stalprodukt, Fakro, Voster, Regamet, Rukki.
 
 #### 1.5 Atrybuty
 Zaznacz wszystko, co prawdziwe: *firma prowadzona przez właściciela*, *dostępny parking*, *płatność kartą/BLIK*, *bezpłatna wycena*, *dostawa*, *usługi na miejscu u klienta*, *wejście bez schodów*. Atrybuty pojawiają się w filtrach Map.
@@ -218,35 +273,38 @@ Zasady: telefon/aparat, naturalne zdjęcia (nie foldery producenta — Google po
 Dodaj 8–10 pytań z konta prywatnego (nie firmowego) i odpowiedz z profilu firmy. To legalne i zalecane — inaczej sekcję wypełnią domysły obcych ludzi.
 
 Gotowe pytania:
-1. Czy robicie pomiar przed zamówieniem okien? → *Tak, pomiar u klienta jest bezpłatny i niezobowiązujący. Umawiamy termin telefonicznie: 605 308 707.*
-2. Czy montujecie okna, czy tylko sprzedajecie? → *Realizujemy całość: pomiar, dostawę, demontaż starej stolarki, montaż, obróbkę i uprzątnięcie. Sprzedaż samego towaru też jest możliwa.*
-3. Ile trwa wymiana okien w domu jednorodzinnym? → *Standardowo 1–2 dni robocze. Termin ustalamy z góry i realizujemy w jednym wejściu.*
-4. Jaki jest czas realizacji od zamówienia? → *Zwykle 3–5 tygodni w zależności od producenta i rodzaju stolarki.*
-5. Czy obsługujecie Bochnię i Tarnów? → *Tak, obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę.*
-6. Czy dajecie gwarancję na montaż? → *Tak — gwarancja producenta na produkt i nasza gwarancja na robociznę, plus serwis pogwarancyjny.*
-7. Czy można zobaczyć okna na żywo? → *Tak, mamy ekspozycję przy ul. Mościckiego 2 w Brzesku.*
-8. Czy zajmujecie się też dachem i rynnami? → *Tak — pokrycia dachowe Rukki i Plannja oraz systemy rynnowe, z montażem.*
-9. Czy montujecie bramy Wiśniowski i robicie ich serwis? → *Tak, jesteśmy autoryzowanym punktem — montaż, automatyka i serwis.*
-10. Czy wystawiacie fakturę VAT / obsługujecie firmy? → *Tak, obsługujemy klientów indywidualnych, firmy i inwestycje.*
+1. Czy montujecie bramy garażowe? → *Tak — bramy segmentowe i uchylne Wiśniowski i Stalprodukt. Pomiar otworu, montaż, napęd i automatyka, uruchomienie i szkolenie.*
+2. Czy serwisujecie bramy garażowe? → *Tak, serwisujemy bramy wszystkich typów: wymiana sprężyn, linek i napędów, regulacja, przeglądy okresowe.*
+3. Czy macie bramy Hörmann? → `[UZUPEŁNIĆ — patrz pkt. 10]` *Jeśli nie: sprzedajemy bramy Wiśniowski i Stalprodukt — parametry i gwarancja porównywalne, chętnie doradzimy przy doborze.*
+4. Czy robicie pomiar przed zamówieniem okien? → *Tak, pomiar u klienta jest bezpłatny i niezobowiązujący. Umawiamy termin telefonicznie: 605 308 707.*
+5. Czy montujecie okna, czy tylko sprzedajecie? → *Realizujemy całość: pomiar, dostawę, demontaż starej stolarki, montaż, obróbkę i uprzątnięcie. Sprzedaż samego towaru też jest możliwa.*
+6. Ile trwa wymiana okien w domu jednorodzinnym? → *Standardowo 1–2 dni robocze. Termin ustalamy z góry i realizujemy w jednym wejściu.*
+7. Jaki jest czas realizacji od zamówienia? → *Zwykle 3–5 tygodni w zależności od producenta i rodzaju stolarki.*
+8. Czy obsługujecie Bochnię i Tarnów? → *Tak, obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę.*
+9. Czy dajecie gwarancję na montaż? → *Tak — gwarancja producenta na produkt i nasza gwarancja na robociznę, plus serwis pogwarancyjny.*
+10. Czy można zobaczyć okna na żywo? → *Tak, mamy ekspozycję przy ul. Mościckiego 2 w Brzesku.*
+11. Czy zajmujecie się też dachem i rynnami? → *Tak — pokrycia dachowe Rukki i Plannja oraz systemy rynnowe, z montażem.*
+12. Czy sprzedajecie materiały budowlane? → *Tak — blacha, piany montażowe i PUR, kleje i akcesoria, detalicznie i hurtowo, na miejscu w Brzesku.*
+13. Czy wystawiacie fakturę VAT / obsługujecie firmy? → *Tak, obsługujemy klientów indywidualnych, firmy i inwestycje.*
 
 #### 1.9 Wpisy (posty) — rytm co tydzień
 Post żyje ~7 dni, więc rytm ma być tygodniowy. Zawsze ze zdjęciem i przyciskiem CTA („Zadzwoń" lub „Więcej informacji" z linkiem UTM).
 
-Kalendarz na kwartał (12 tygodni):
+Kalendarz na kwartał (12 tygodni), ułożony wg realnego popytu z panelu — bramy garażowe co trzeci wpis:
 | Tydz. | Temat |
 |---|---|
-| 1 | Realizacja: wymiana okien w domu w Brzesku (przed/po) |
-| 2 | Bezpłatny pomiar — jak wygląda i dlaczego jest ważny |
-| 3 | Realizacja: brama garażowa Wiśniowski + automatyka |
-| 4 | Ciepły montaż warstwowy — czym różni się od zwykłego |
-| 5 | Realizacja: dach z blachodachówki Rukki |
-| 6 | Drzwi antywłamaniowe RC3 — dla kogo |
-| 7 | Realizacja: okna dachowe Fakro |
-| 8 | Serwis i regulacja okien przed sezonem grzewczym |
-| 9 | Realizacja: rolety zewnętrzne |
-| 10 | Parapety wewnętrzne — konglomerat vs PCV vs drewno |
-| 11 | Realizacja: taras kompozytowy |
-| 12 | Podsumowanie sezonu + zaproszenie na ekspozycję |
+| 1 | Realizacja: brama segmentowa Wiśniowski z automatyką (przed/po) |
+| 2 | Bramy segmentowe czy uchylne — którą wybrać do jakiego garażu |
+| 3 | Realizacja: wymiana okien PCV w domu w Brzesku (przed/po) |
+| 4 | Bezpłatny pomiar — jak wygląda i dlaczego decyduje o cenie |
+| 5 | Realizacja: brama uchylna w starym garażu |
+| 6 | Serwis bram: po czym poznać, że czas na wymianę sprężyn |
+| 7 | Realizacja: dach z blachodachówki Rukki wraz z rynnami |
+| 8 | Ciepły montaż warstwowy — czym różni się od zwykłego |
+| 9 | Realizacja: okna dachowe Fakro |
+| 10 | Drzwi antywłamaniowe RC3 — dla kogo mają sens |
+| 11 | Realizacja: rolety zewnętrzne albo taras kompozytowy |
+| 12 | Zaproszenie na ekspozycję i podsumowanie sezonu |
 
 Zasada: **realizacja co drugi tydzień.** To buduje jednocześnie ranking, dowód społeczny i materiał pod stronę WWW.
 
@@ -320,12 +378,13 @@ Skrót tego, co będzie potrzebne (~19% wagi rankingu lokalnego):
 
 1. **Techniczne:** jedna kanoniczna wersja domeny (`https://hatbud.pl`), przekierowania 301 ze wszystkich wariantów, uporządkowanie URL-i Joomli, szybkość, wersja mobilna, HTTPS.
 2. **Strona główna** zoptymalizowana pod `okna Brzesko` / `montaż okien Brzesko` — miasto w `<title>`, H1, treści.
-3. **Podstrona pod każdą usługę** z listy w pkt. 1.3 — to najważniejsza praca contentowa.
-4. **Strony lokalizacyjne** (unikalna treść, nie kopie!): Bochnia, Tarnów, Wojnicz, Szczurowa, Dębno — z realizacjami z danego miasta.
+3. **Podstrona pod każdą usługę** z listy w pkt. 1.3 — najważniejsza praca contentowa. Kolejność wg danych z panelu: `bramy garażowe Brzesko` → `okna PCV Brzesko` → `okna dachowe Fakro Brzesko` → `pokrycia dachowe i rynny Brzesko` → `drzwi Brzesko` → reszta.
+4. **Strony lokalizacyjne** (unikalna treść, nie kopie!): Bochnia, Tarnów, Wojnicz, Szczurowa, Dębno — z realizacjami z danego miasta. **To nie jest opcja.** Najmocniejsza fraza w Brzesku ma 19 wyszukiwań — na tym rynku nie da się urosnąć bez wyjścia poza gminę.
 5. **Dane strukturalne** `LocalBusiness` / `HomeAndConstructionBusiness` + `Service` + `AggregateRating` — spójne z wizytówką.
 6. **Zakładka „Realizacje"** z galeriami przed/po i lokalizacją — najmocniejszy content w tej branży.
 7. **Osadzona mapa Google** i pełny NAP w stopce każdej podstrony.
-8. **Decyzja o `hatbud-hurtownia.pl`:** scalić w subdomenę/katalog `hatbud.pl` albo świadomie rozdzielić role.
+8. **Strona porównawcza „Wiśniowski czy Hörmann"** — jeśli nie sprzedajecie Hörmanna, to sposób na przechwycenie zapytania `hormann brzesko`, które już się pojawia w Waszych statystykach.
+9. **Decyzja o `hatbud-hurtownia.pl`:** scalić w subdomenę/katalog `hatbud.pl` albo świadomie rozdzielić role. Zapytania `piana pur` i `blacha brzesko` pokazują, że hurtownia ma realny popyt — nie kasować jej bezrefleksyjnie.
 
 ---
 
@@ -340,8 +399,11 @@ Skrót tego, co będzie potrzebne (~19% wagi rankingu lokalnego):
 | Wejścia na stronę z wizytówki | do zmierzenia | +50% | +200% |
 | Liczba opinii | 9 | 20+ | 50–70 |
 | Średnia ocena | 4,2 | 4,5+ | 4,7+ |
-| Pozycja na „montaż okien Brzesko" | do zmierzenia | top 3 | top 3 stabilnie |
-| Pozycja na „okna Bochnia" / „okna Tarnów" | poza top 20 | top 10 | top 5 |
+| „bramy garażowe Brzesko" — **do obrony** | najmocniejsza fraza | utrzymać top 3 | utrzymać top 3 |
+| „okna Brzesko" / „okna PCV Brzesko" — **do zdobycia** | poniżej progu | top 3 | top 3 stabilnie |
+| „rynny Brzesko" / „blacha Brzesko" | poniżej progu | top 5 | top 3 |
+| „bramy garażowe Bochnia" / „okna Tarnów" | poza top 20 | top 10 | top 5 |
+| Liczba fraz powyżej progu 15 w panelu | 1 | 3–4 | 8+ |
 
 #### Narzędzia
 - **Statystyki w Profilu Firmy** — wyświetlenia, wyszukiwane frazy, akcje
@@ -394,13 +456,20 @@ Skrót tego, co będzie potrzebne (~19% wagi rankingu lokalnego):
 6. **Odpowiedź:** czy stary adres przy Kościuszki 53 jest już nieaktualny?
 7. **Który numer telefonu** ma być główny w wizytówce
 8. **Zdjęcia z 5–10 ostatnich realizacji** (przed/po) — nawet z telefonu
-9. **Odblokowanie dostępu do `hatbud.pl`** w tym środowisku lub eksport treści strony — potrzebne do części 2
+9. **Czy sprzedajecie bramy Hörmann?** — w statystykach jest zapytanie `hormann brzesko`
+10. **Czy „HB Stolarka" to Wasza potoczna nazwa lub dawny szyld?** — takie zapytanie też się pojawia i ma znaczenie przy wyborze nazwy profilu
+11. **Jakiego okresu dotyczy zestawienie wyszukiwań** ze zrzutów (miesiąc, kwartał, rok?) — bez tego nie da się ocenić skali
+12. **Odblokowanie dostępu do `hatbud.pl`** w tym środowisku lub eksport treści strony — potrzebne do części 2
 
 ---
 
-## 8. Podsumowanie w trzech zdaniach
+## 8. Podsumowanie
 
-Wizytówka HatBud ma dobry fundament (fizyczny sklep w Brzesku, 15 lat na rynku, właściwa kategoria główna, realny zakres usług), ale **jedną nogę na minie** — nazwa łamiąca zasady Google — i **jeden krytycznie słaby punkt** — 9 opinii przy ocenie 4,2. Największy zwrot z najmniejszego nakładu dają w tej kolejności: **naprawa nazwy → wypełnienie sekcji Usługi pod montaż → systematyczne zbieranie opinii → zdjęcia realizacji → cytowania NAP.** Wszystko to jest ustawione tak, żeby ściągać klienta na **usługę kompleksową** (okno + montaż), a nie na sam towar — bo tam jest marża.
+Dane z panelu przewróciły jedno z założeń pierwszej wersji tego planu i warto to powiedzieć wprost: **w Mapach Google HatBud jest dziś firmą od bram garażowych, nie od okien.** Fraza „bramy garażowe Brzesko" to jedyne zapytanie powyżej progu widoczności, a kategoria główna „Montaż okien" nie przyniosła ani jednego wejścia. Kategoria główna idzie więc na handlową — argument właściciela wygrał z moim.
+
+To nie znaczy porzucić okna. Znaczy: **bramy to przyczółek, który już wygrywacie i trzeba go obronić, a okna to rynek do odbicia** — sześć fraz, wszystkie poniżej progu, przy silnej konkurencji. Kompleksowość, na której zarabiacie, nie ginie przy zmianie kategorii: przenosi się do sekcji Usług, gdzie każda pozycja nazywa się „Sprzedaż i montaż…", i tam jest czytana zarówno przez Google, jak i przez modele AI budujące uzasadnienia w wynikach.
+
+Kolejność działań pozostaje bez zmian: **naprawa nazwy → zmiana kategorii → wypełnienie usług i produktów → systematyczne zbieranie opinii → zdjęcia realizacji → uporządkowanie danych w katalogach.** Nowy, twardy wniosek na koniec: przy najmocniejszej frazie na poziomie 19 wyszukiwań rynek w samym Brzesku jest za mały na duży wzrost. Bochnia i Tarnów przestają być etapem „kiedyś" — bez nich sufit jest niski.
 
 ---
 
