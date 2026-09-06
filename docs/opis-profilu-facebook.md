@@ -6,12 +6,12 @@ Gotowe do wklejenia. Trzy pola, trzy różne długości — Facebook pokazuje je
 
 ## 1. Pole „Informacje" / bio (limit 255 znaków) — wersja główna
 
-> Okna, bramy garażowe, drzwi, rolety, dachy i rynny. Sprzedajemy i montujemy — od pomiaru u klienta po serwis. Brzesko, ul. Mościckiego 2, ekspozycja na miejscu. Działamy od 2011 roku. Brzesko, Bochnia, Tarnów. Tel. 605 308 707
+> Bramy garażowe, okna, drzwi, rolety, dachy i rynny. Przyjedziemy, zmierzymy, przywieziemy i zamontujemy. Ekspozycja w Brzesku przy Mościckiego 2, robimy tu od 2011 roku. Jeździmy po Brzesku, Bochni i Tarnowie. 605 308 707
 
-*(228 znaków)*
+*(221 znaków)*
 
 ### Wariant B — jeśli chcecie mocniej postawić na bramy
-> Bramy garażowe, okna, drzwi, rolety, pokrycia dachowe i rynny. Nie tylko sprzedajemy — przyjeżdżamy na pomiar, montujemy i serwisujemy. Salon i ekspozycja: Brzesko, Mościckiego 2. Od 2011 roku. Tel. 605 308 707
+> Bramy garażowe z montażem i serwisem. Do tego okna, drzwi, rolety, dachy i rynny. Pomiar u klienta, montaż, a jak brama zacznie chodzić ciężko, wracamy i regulujemy. Brzesko, Mościckiego 2, od 2011. 605 308 707
 
 *(210 znaków)*
 
@@ -21,13 +21,13 @@ Gotowe do wklejenia. Trzy pola, trzy różne długości — Facebook pokazuje je
 
 ## 2. Sekcja „O nas" (dłuższy opis na profilu)
 
-> HatBud to firma z Brzeska. Od 2011 roku sprzedajemy i montujemy bramy garażowe, okna PCV, aluminiowe, drewniane i dachowe, drzwi zewnętrzne i wewnętrzne, rolety, parapety, pokrycia dachowe i rynny. W hurtowni mamy też materiały budowlane: blachę, piany montażowe i PUR, kleje, akcesoria.
+> Jesteśmy z Brzeska, robimy tu od 2011 roku. Bramy garażowe, okna PCV, aluminiowe, drewniane i dachowe, drzwi, rolety, parapety, dachy i rynny. W hurtowni mamy blachę, piany, kleje i resztę drobiazgu, którego zwykle brakuje w połowie roboty.
 >
-> Robimy całą robotę, nie tylko sprzedaż. Przyjeżdżamy na bezpłatny pomiar, doradzamy przy doborze, dostarczamy towar, demontujemy starą stolarkę, montujemy, obrabiamy ościeża i sprzątamy po sobie. Później zostajemy na serwis i obsługę gwarancyjną.
+> Nie zostawiamy klienta z towarem pod domem. Przyjeżdżamy na pomiar, mówimy, co ma sens przy takim budżecie, przywozimy, wyjmujemy stare, wstawiamy nowe, obrabiamy i sprzątamy po sobie. Jak potem coś zacznie chodzić ciężko, wracamy i regulujemy. Pomiar jest za darmo i do niczego nie zobowiązuje.
 >
-> Pracujemy na produktach Wiśniowski, Fakro, Stalprodukt, Voster, Oknodrewal, Regamet, Rukki i Plannja. Wszystko można obejrzeć na żywo na ekspozycji przy Mościckiego 2 w Brzesku.
+> Wiśniowski, Fakro, Stalprodukt, Voster, Oknodrewal, Regamet, Rukki, Plannja. Sporo z tego stoi u nas na ekspozycji przy Mościckiego 2 — można przyjść, popatrzeć i dotknąć, zamiast oglądać w folderze.
 >
-> Obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę — klientów indywidualnych, firmy i inwestycje.
+> Jeździmy po Brzesku, Bochni, Tarnowie i okolicy. Robimy domy, firmy i większe inwestycje.
 >
 > 📞 605 308 707, 791 279 539
 > 🌐 hatbud.pl
@@ -36,7 +36,7 @@ Gotowe do wklejenia. Trzy pola, trzy różne długości — Facebook pokazuje je
 
 ## 3. Jednolinijkowiec (kategoria/nagłówek, np. do postów i wizytówek w grupach)
 
-> Okna, bramy, drzwi, dachy. Sprzedaż z montażem i serwisem. Brzesko od 2011.
+> Okna, bramy, drzwi i dachy. Z pomiarem, montażem i serwisem. Brzesko, od 2011.
 
 ---
 
@@ -46,7 +46,8 @@ Gotowe do wklejenia. Trzy pola, trzy różne długości — Facebook pokazuje je
   `HatBud Marcin Toboła · ul. Ignacego Mościckiego 2 · 32-800 Brzesko · +48 605 308 707 · https://hatbud.pl`
   Rozjazd między Facebookiem a wizytówką osłabia zaufanie Google do profilu.
 - **Nazwa strony na FB:** `HatBud` albo `HatBud Marcin Toboła`. Nie powtarzajcie na Facebooku błędu z wizytówki („Okna, bramy, drzwi, dachy, rynny, Hatbud.") — to upychanie słów kluczowych.
-- **Świadomie pominięte:** „najlepszy", „lider", „z pasją", „kompleksowe rozwiązania", „zaufaj naszemu doświadczeniu". Nic nie wnoszą, a brzmią jak każda inna strona w branży.
+- **Świadomie pominięte:** „najlepszy", „lider", „z pasją", „kompleksowe rozwiązania", „zaufaj naszemu doświadczeniu", „stawiamy na jakość". Nic nie wnoszą, a brzmią jak każda inna strona w branży.
+- **Ton:** teksty są pisane tak, jak właściciel mówi do klienta przy ladzie — krótkie zdania, konkret zamiast sloganu, jeden szczegół z życia („wracamy i regulujemy", „można dotknąć zamiast oglądać w folderze"). To właśnie odróżnia opis firmy od opisu wygenerowanego. Jeśli coś w tekście brzmi nie po Waszemu — zmieńcie na swoje słowa, to nie zaszkodzi.
 - **W polu WWW** wstawcie link z UTM, żeby dało się zmierzyć ruch z Facebooka:
   `https://hatbud.pl/?utm_source=facebook&utm_medium=social&utm_campaign=profil`
 
