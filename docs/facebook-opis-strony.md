@@ -16,37 +16,49 @@ inaczej rozjazd obniża zaufanie Google do profilu zamiast je podnosić.
    w dwóch profilach to dokładnie ten rozjazd NAP, który naprawiamy.
 2. **Bez superlatywów** („najlepsi", „nr 1", „lider"). Na Facebooku to nie jest
    zakazane tak jak w Google, ale tekst i tak będzie kopiowany do katalogów, a poza tym
-   przy zakupie za 20–60 tys. zł konkret („bezpłatny pomiar", „1–2 dni robocze")
-   buduje zaufanie lepiej niż przymiotnik.
-3. **Kolejność oferty wg danych z panelu wizytówki:** bramy garażowe → okna → dach
-   i rynny → drzwi → reszta. Bramy to Wasza najmocniejsza fraza i tak samo mają
-   otwierać opis na Facebooku.
+   przy zakupie za 20–60 tys. zł konkret buduje zaufanie lepiej niż przymiotnik.
+3. **Bez obietnic, których firma nie składa.** W szczególności: **nie ma bezpłatnego
+   pomiaru** — ustalenie właściciela z 30.09.2026. Żaden tekst poniżej go nie obiecuje.
+   Zasięg opisujemy jako województwo małopolskie, bez wyliczania miast.
 
 ---
 
 ## 1. Biogram (pole „Biogram" w kreatorze — limit 255 znaków)
 
-To pole, które widać na zrzucie ekranu. Trzy warianty do wyboru — każdy mieści się
-w limicie. **Rekomendacja: wariant A.**
+To pole, które widać na zrzucie ekranu. Pięć wariantów — każdy mieści się w limicie.
+**Rekomendacja: wariant A.**
 
-### ✅ Wariant A — rekomendowany (237 znaków)
+### ✅ Wariant A — rekomendowany, najpełniejszy (246 znaków)
 
-> Od 2011 roku w Brzesku. Sprzedaż i montaż bram garażowych, okien, drzwi, rolet, pokryć dachowych i rynien. Bezpłatny pomiar u klienta, montaż i serwis. Ekspozycja: ul. Mościckiego 2. Brzesko, Bochnia, Tarnów, Małopolska. Tel. 605 308 707
+> Od 2011 roku w Brzesku. Sprzedaż i montaż bram garażowych, okien, drzwi, rolet, pokryć dachowych i rynien. Montaż, serwis i obsługa gwarancyjna. Ekspozycja: ul. Mościckiego 2, Brzesko. Realizacje w całym województwie małopolskim. Tel. 605 308 707
 
-*Dlaczego ten: mieści staż (15 lat), pełną ofertę, kompleksowość („sprzedaż i montaż"
-+ „pomiar, montaż i serwis"), fizyczną ekspozycję, zasięg i telefon. Cztery sygnały
-zaufania w 237 znakach.*
+*Dlaczego ten: staż, pełna oferta, kompleksowość („sprzedaż i montaż" + „serwis
+i gwarancja"), fizyczna ekspozycja z adresem, zasięg i telefon — sześć konkretów
+w 246 znakach.*
 
-### Wariant B — mocniej na zaufanie, bez telefonu (244 znaki)
+### Wariant B — bez telefonu, mocniej na ciągłość działania (230 znaków)
 
-> Bramy garażowe, okna, drzwi, rolety, dachy i rynny — sprzedaż z montażem. Brzesko, od 2011 roku. Bezpłatny pomiar, własna ekipa montażowa, serwis i gwarancja. Ekspozycja przy ul. Mościckiego 2. Obsługujemy Brzesko, Bochnię, Tarnów i Małopolskę.
+> Bramy garażowe, okna, drzwi, rolety, dachy i rynny — sprzedaż z montażem. W Brzesku od 2011 roku. Montaż, serwis i obsługa gwarancyjna. Ekspozycja: ul. Mościckiego 2, Brzesko. Pracujemy na terenie całego województwa małopolskiego.
 
-*Wybierz ten, jeśli telefon jest już widoczny w sekcji kontaktowej strony i nie chcesz
-go dublować.*
+*Wybierz, jeśli telefon jest już widoczny w sekcji kontaktowej i nie chcesz go dublować.*
 
-### Wariant C — najkrótszy, najbardziej „rzeczowy" (218 znaków)
+### Wariant C — najkrótszy, z podkreśleniem doświadczenia (218 znaków)
 
-> Sprzedaż i montaż bram garażowych, okien, drzwi, rolet, pokryć dachowych i rynien. Brzesko, od 2011 roku. Bezpłatny pomiar, montaż przez własną ekipę, serwis i gwarancja. Ekspozycja: ul. Mościckiego 2. Tel. 605 308 707
+> Sprzedaż i montaż bram garażowych, okien, drzwi, rolet, pokryć dachowych i rynien. Ekspozycja: ul. Mościckiego 2, Brzesko. Firma z 15-letnim doświadczeniem, realizacje w całym województwie małopolskim. Tel. 605 308 707
+
+### Wariant D — produktowy, z konkretnymi typami okien (229 znaków)
+
+> Bramy garażowe, okna PCV, aluminiowe i dachowe, drzwi, rolety, pokrycia dachowe i rynny. Sprzedaż, montaż i serwis od 2011 roku. Zapraszamy na ekspozycję: ul. Mościckiego 2, Brzesko. Działamy na terenie województwa małopolskiego.
+
+*Wersja dla kogoś, kto szuka konkretnego typu okna — więcej haseł produktowych,
+mniej o firmie.*
+
+### Wariant E — otwarcie na przewadze „nie tylko sprzedajemy" (216 znaków)
+
+> Nie tylko sprzedajemy — montujemy i serwisujemy. Bramy garażowe, okna, drzwi, rolety, dachy i rynny. Brzesko, od 2011 roku. Ekspozycja: ul. Mościckiego 2. Realizacje w całym województwie małopolskim. Tel. 605 308 707
+
+*Najmocniejszy pierwszy zdaniem, bo od razu odróżnia od zwykłego składu budowlanego.
+Kosztem paru haseł produktowych na początku.*
 
 ---
 
@@ -74,8 +86,8 @@ Tu limit jest znacznie wyższy, więc jest miejsce na dowody, a nie tylko na dek
 
 > **HatBud — okna, bramy i drzwi z montażem. Brzesko, od 2011 roku.**
 >
-> Jesteśmy rodzinną firmą z Brzeska. Od 2011 roku sprzedajemy i montujemy stolarkę
-> otworową oraz pokrycia dachowe — dla klientów indywidualnych, firm i inwestycji.
+> Jesteśmy firmą z Brzeska. Od 2011 roku sprzedajemy i montujemy stolarkę otworową
+> oraz pokrycia dachowe — dla klientów indywidualnych, firm i inwestycji.
 >
 > **Czym się zajmujemy**
 > • Bramy garażowe segmentowe i uchylne oraz bramy ogrodzeniowe, z napędem i automatyką
@@ -87,31 +99,29 @@ Tu limit jest znacznie wyższy, więc jest miejsce na dowody, a nie tylko na dek
 >
 > **Jak pracujemy**
 > Nie jesteśmy wyłącznie sklepem. Prowadzimy całe zlecenie od początku do końca:
-> doradztwo → bezpłatny pomiar u klienta → wycena → dostawa → demontaż starej stolarki →
+> doradztwo → pomiar u klienta → wycena → dostawa → demontaż starej stolarki →
 > montaż i obróbka → uprzątnięcie → serwis i obsługa gwarancyjna. Wymiana okien
 > w domu jednorodzinnym to zwykle 1–2 dni robocze, w jednym wejściu i w terminie
 > ustalonym z góry. Sprzedaż samego towaru, bez montażu, też jest możliwa.
 >
 > **Dlaczego warto nam zaufać**
 > • 15 lat na rynku — działamy nieprzerwanie od 2011 roku
-> • Własna ekipa montażowa, nie podwykonawcy z ogłoszenia
+> • Montaż i serwis prowadzimy sami, nie odsyłamy klienta do producenta
 > • Gwarancja producenta na produkt i nasza gwarancja na robociznę, plus serwis pogwarancyjny
 > • Stacjonarna ekspozycja w Brzesku — towar można zobaczyć i dotknąć przed zakupem
-> • Autoryzowana współpraca z uznanymi producentami: Wiśniowski, Fakro, Stalprodukt,
->   Voster, Oknodrewal, Regamet, Rukki, Plannja, NewTechWood
+> • Współpracujemy z uznanymi producentami: Wiśniowski, Fakro, Stalprodukt, Voster,
+>   Oknodrewal, Regamet, Rukki, Plannja, NewTechWood
 >
 > **Gdzie działamy**
-> Brzesko, Bochnia, Tarnów, Wojnicz, Szczurowa, Dębno, Borzęcin, Czchów, Zakliczyn,
-> Nowy Wiśnicz — powiaty brzeski, bocheński i tarnowski oraz cała Małopolska.
+> Sklep i ekspozycja w Brzesku, realizacje na terenie całego województwa małopolskiego.
 >
 > **Kontakt**
-> Salon i ekspozycja: ul. Ignacego Mościckiego 2, 32-800 Brzesko
+> Sklep i ekspozycja: ul. Ignacego Mościckiego 2, 32-800 Brzesko
 > Tel. 605 308 707 · 791 279 539
 > E-mail: hatbud-okna@wp.pl
 > www: hatbud.pl
 >
-> Napisz do nas na Messengerze albo zadzwoń — pomiar i wycena są bezpłatne
-> i niezobowiązujące.
+> Napisz do nas na Messengerze albo zadzwoń — chętnie doradzimy i przygotujemy wycenę.
 
 ---
 
@@ -147,7 +157,7 @@ więc jeden nakład pracy obsługuje oba kanały:
 2. Realizacja: brama segmentowa Wiśniowski z automatyką — przed / po
 3. Realizacja: wymiana okien PCV w domu w Brzesku — przed / po
 4. Poradnik: bramy segmentowe czy uchylne — którą wybrać do jakiego garażu
-5. Post o bezpłatnym pomiarze: jak wygląda i dlaczego decyduje o ostatecznej cenie
+5. Poradnik: od czego zależy ostateczna cena wymiany okien
 6. Realizacja: dach z blachodachówki wraz z rynnami
 
 Dalej — rytm tygodniowy, realizacja co drugi tydzień. Ten sam kalendarz 12 tygodni
@@ -157,18 +167,16 @@ co w pkt. 1.9 planu wizytówki.
 
 ## 6. Do potwierdzenia przez właściciela przed publikacją
 
-Te same punkty co w planie wizytówki — bez nich opublikujecie dane, które potem trzeba
-będzie poprawiać w kilkunastu miejscach naraz:
-
 - [ ] Czy adres **ul. Mościckiego 2** jest aktualny (a stary Kościuszki 53 już nie)
 - [ ] Który telefon ma być **główny** — 605 308 707 czy 791 279 539
 - [ ] Pełne godziny otwarcia, łącznie z sobotami
-- [ ] Czy „własna ekipa montażowa" to zapis zgodny z prawdą, czy część montaży idzie
-      przez stałych podwykonawców — jeśli to drugie, zmienić na „stały, sprawdzony
-      zespół montażowy"
-- [ ] Czy formuła „autoryzowana współpraca" jest poprawna dla każdej z wymienionych marek
-      — jeśli przy którejś nie ma formalnej autoryzacji, zostawić samo „współpracujemy
-      z producentami"
+- [ ] **Na jakich zasadach odbywa się pomiar u klienta** — bezpłatny nie jest, ale trzeba
+      ustalić, jak to komunikować: płatny osobno, wliczony w cenę zamówienia, czy
+      odliczany przy złożeniu zamówienia. Od tej odpowiedzi zależy zapis w opisie,
+      w Q&A wizytówki i w poście nr 5
+- [ ] Czy formuła „montaż i serwis prowadzimy sami" jest zgodna z prawdą, czy część
+      montaży idzie przez stałych podwykonawców — jeśli to drugie, zmienić na „stały,
+      sprawdzony zespół montażowy"
 - [ ] Czy strona ma być prowadzona wspólnie z `hatbud-hurtownia.pl`, czy hurtownia
       dostaje własny profil (ta sama zasada co przy wizytówce: osobny profil tylko przy
       fizycznie osobnym punkcie)

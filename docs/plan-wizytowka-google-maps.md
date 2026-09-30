@@ -209,7 +209,7 @@ To materiał na **część 2** sesji, ale ~19% wagi rankingu lokalnego siedzi w�
 
 #### 1.2 Opis firmy (do 750 znaków) — gotowy do wklejenia
 
-> HatBud działa w Brzesku od 2011 roku. Prowadzimy sprzedaż i montaż bram garażowych, okien PCV, aluminiowych, drewnianych i dachowych, drzwi zewnętrznych i wewnętrznych, rolet, parapetów, pokryć dachowych, rynien oraz materiałów budowlanych. W salonie przy Mościckiego 2 obejrzysz towar na żywo i dobierzesz rozwiązanie z doradcą. Realizujemy całość: bezpłatny pomiar u klienta, wycena, dostawa, demontaż starej stolarki, montaż, obróbka i uprzątnięcie, a po zakończeniu serwis i obsługa gwarancyjna. Współpracujemy z markami Wiśniowski, Fakro, Stalprodukt, Voster, Oknodrewal, Regamet, Rukki i Plannja. Obsługujemy Brzesko, Bochnię, Tarnów i całą Małopolskę — klientów indywidualnych, firmy i inwestycje.
+> HatBud działa w Brzesku od 2011 roku. Prowadzimy sprzedaż i montaż bram garażowych, okien PCV, aluminiowych, drewnianych i dachowych, drzwi zewnętrznych i wewnętrznych, rolet, parapetów, pokryć dachowych, rynien oraz materiałów budowlanych. W salonie przy Mościckiego 2 obejrzysz towar na żywo i dobierzesz rozwiązanie z doradcą. Realizujemy całość: pomiar u klienta, wycena, dostawa, demontaż starej stolarki, montaż, obróbka i uprzątnięcie, a po zakończeniu serwis i obsługa gwarancyjna. Współpracujemy z markami Wiśniowski, Fakro, Stalprodukt, Voster, Oknodrewal, Regamet, Rukki i Plannja. Obsługujemy klientów indywidualnych, firmy i inwestycje na terenie całego województwa małopolskiego.
 
 *(Bez słów typu „najlepszy", „nr 1" — Google traktuje superlatywy w opisie jako naruszenie. Bez adresu i numeru telefonu — na to są osobne pola.)*
 
@@ -222,7 +222,7 @@ Kolejność ustawiona wg danych z panelu.
 |---|---|
 | Sprzedaż i montaż bram garażowych | Bramy segmentowe i uchylne Wiśniowski i Stalprodukt: pomiar otworu, dobór, montaż, napęd i automatyka, uruchomienie. Brzesko i okolice. |
 | Serwis i naprawa bram garażowych | Wymiana sprężyn, linek i napędów, regulacja, przeglądy okresowe bram wszystkich typów. |
-| Sprzedaż i montaż okien PCV | Kompleksowa wymiana okien PCV: bezpłatny pomiar, demontaż starej stolarki, montaż na piankę lub ciepły montaż warstwowy, obróbka ościeży, montaż parapetów. |
+| Sprzedaż i montaż okien PCV | Kompleksowa wymiana okien PCV: pomiar u klienta, demontaż starej stolarki, montaż na piankę lub ciepły montaż warstwowy, obróbka ościeży, montaż parapetów. |
 | Sprzedaż i montaż okien dachowych Fakro | Okna połaciowe z kołnierzem uszczelniającym, wymiana starych okien dachowych, montaż w istniejącym dachu. |
 | Sprzedaż i montaż okien aluminiowych | Okna i witryny aluminiowe do domów i obiektów użytkowych. Pomiar, dobór profilu, montaż i regulacja. |
 | Sprzedaż i montaż okien drewnianych | Stolarka drewniana Oknodrewal — dobór, pomiar, montaż i konserwacja. |
@@ -235,7 +235,7 @@ Kolejność ustawiona wg danych z panelu.
 | Sprzedaż i montaż parapetów | Parapety wewnętrzne i zewnętrzne — pomiar, docięcie, montaż. |
 | Sprzedaż i montaż desek tarasowych | Tarasy kompozytowe NewTechWood — przygotowanie podkonstrukcji i montaż. |
 | Sprzedaż materiałów budowlanych | Blacha, piany montażowe i PUR, kleje, akcesoria — sprzedaż detaliczna i hurtowa na miejscu w Brzesku. |
-| Bezpłatny pomiar i wycena | Dojazd do klienta, pomiar otworów, doradztwo techniczne i wycena bez zobowiązań. |
+| Pomiar i wycena u klienta | Dojazd do klienta, pomiar otworów, doradztwo techniczne i przygotowanie wyceny. `[DO POTWIERDZENIA — zasady odpłatności, patrz pkt. 7.13]` |
 | Serwis i regulacja stolarki | Regulacja okien i drzwi, wymiana okuć i uszczelek, obsługa gwarancyjna. |
 
 > **Ta lista to jednocześnie mapa podstron dla części 2 (SEO strony)**, i to w tej samej kolejności priorytetów.
@@ -246,10 +246,14 @@ Dodaj 15–25 pozycji z prawdziwymi zdjęciami i widełkami cenowymi (np. „od 
 **Kolejność wypełniania wg danych z panelu:** bramy garażowe (najwięcej pozycji — to Wasza najmocniejsza fraza) → okna PCV → okna dachowe Fakro → blachodachówka i pokrycia → rynny → drzwi → rolety → materiały budowlane, w tym piana PUR. Grupuj po markach: Wiśniowski, Stalprodukt, Fakro, Voster, Regamet, Rukki.
 
 #### 1.5 Atrybuty
-Zaznacz wszystko, co prawdziwe: *firma prowadzona przez właściciela*, *dostępny parking*, *płatność kartą/BLIK*, *bezpłatna wycena*, *dostawa*, *usługi na miejscu u klienta*, *wejście bez schodów*. Atrybuty pojawiają się w filtrach Map.
+Zaznacz wszystko, co prawdziwe: *firma prowadzona przez właściciela*, *dostępny parking*, *płatność kartą/BLIK*, *dostawa*, *usługi na miejscu u klienta*, *wejście bez schodów*. Atrybuty pojawiają się w filtrach Map.
+
+> ⚠️ **Nie zaznaczaj atrybutu „bezpłatna wycena"** — właściciel potwierdził 30.09.2026, że bezpłatnego pomiaru firma nie oferuje. Atrybut to publiczna deklaracja pokazywana w filtrach Map: klient przyjedzie z roszczeniem, a rozjazd między obietnicą a rzeczywistością wraca w opiniach.
 
 #### 1.6 Obszar działania
-Wizytówka ma **fizyczny sklep**, więc adres zostaje widoczny (to przewaga — punkty stacjonarne rankują lepiej niż firmy „bez adresu"). Dodatkowo w polu obszaru wpisz realnie obsługiwane miejsca:
+Wizytówka ma **fizyczny sklep**, więc adres zostaje widoczny (to przewaga — punkty stacjonarne rankują lepiej niż firmy „bez adresu"). Dodatkowo w polu obszaru wpisz realnie obsługiwane miejsca.
+
+> **Uwaga — to pole techniczne, nie tekst marketingowy.** W opisie firmy i na Facebooku zasięg komunikujemy ogólnie jako „całe województwo małopolskie" (decyzja właściciela z 30.09.2026, bez wyliczania miast). Tutaj lista miejscowości zostaje, bo to osobny mechanizm: Google używa jej do dopasowania geograficznego, a nie pokazuje jako zdania do przeczytania. Oba zapisy są ze sobą zgodne — lista poniżej mieści się w Małopolsce.
 
 `Brzesko` · `Bochnia` · `Tarnów` · `Wojnicz` · `Szczurowa` · `Dębno` · `Borzęcin` · `Czchów` · `Zakliczyn` · `Nowy Wiśnicz` · `powiat brzeski` · `powiat bocheński` · `powiat tarnowski`
 
@@ -276,7 +280,7 @@ Gotowe pytania:
 1. Czy montujecie bramy garażowe? → *Tak — bramy segmentowe i uchylne Wiśniowski i Stalprodukt. Pomiar otworu, montaż, napęd i automatyka, uruchomienie i szkolenie.*
 2. Czy serwisujecie bramy garażowe? → *Tak, serwisujemy bramy wszystkich typów: wymiana sprężyn, linek i napędów, regulacja, przeglądy okresowe.*
 3. Czy macie bramy Hörmann? → `[UZUPEŁNIĆ — patrz pkt. 10]` *Jeśli nie: sprzedajemy bramy Wiśniowski i Stalprodukt — parametry i gwarancja porównywalne, chętnie doradzimy przy doborze.*
-4. Czy robicie pomiar przed zamówieniem okien? → *Tak, pomiar u klienta jest bezpłatny i niezobowiązujący. Umawiamy termin telefonicznie: 605 308 707.*
+4. Czy robicie pomiar przed zamówieniem okien? → *Tak, pomiar wykonujemy u klienta przed złożeniem zamówienia. Termin umawiamy telefonicznie: 605 308 707.* `[DO UZUPEŁNIENIA — dopisać zasady odpłatności, patrz pkt. 7.13]`
 5. Czy montujecie okna, czy tylko sprzedajecie? → *Realizujemy całość: pomiar, dostawę, demontaż starej stolarki, montaż, obróbkę i uprzątnięcie. Sprzedaż samego towaru też jest możliwa.*
 6. Ile trwa wymiana okien w domu jednorodzinnym? → *Standardowo 1–2 dni robocze. Termin ustalamy z góry i realizujemy w jednym wejściu.*
 7. Jaki jest czas realizacji od zamówienia? → *Zwykle 3–5 tygodni w zależności od producenta i rodzaju stolarki.*
@@ -296,7 +300,7 @@ Kalendarz na kwartał (12 tygodni), ułożony wg realnego popytu z panelu — br
 | 1 | Realizacja: brama segmentowa Wiśniowski z automatyką (przed/po) |
 | 2 | Bramy segmentowe czy uchylne — którą wybrać do jakiego garażu |
 | 3 | Realizacja: wymiana okien PCV w domu w Brzesku (przed/po) |
-| 4 | Bezpłatny pomiar — jak wygląda i dlaczego decyduje o cenie |
+| 4 | Pomiar u klienta — jak wygląda i dlaczego decyduje o ostatecznej cenie |
 | 5 | Realizacja: brama uchylna w starym garażu |
 | 6 | Serwis bram: po czym poznać, że czas na wymianę sprężyn |
 | 7 | Realizacja: dach z blachodachówki Rukki wraz z rynnami |
@@ -460,6 +464,7 @@ Skrót tego, co będzie potrzebne (~19% wagi rankingu lokalnego):
 10. **Czy „HB Stolarka" to Wasza potoczna nazwa lub dawny szyld?** — takie zapytanie też się pojawia i ma znaczenie przy wyborze nazwy profilu
 11. **Jakiego okresu dotyczy zestawienie wyszukiwań** ze zrzutów (miesiąc, kwartał, rok?) — bez tego nie da się ocenić skali
 12. **Odblokowanie dostępu do `hatbud.pl`** w tym środowisku lub eksport treści strony — potrzebne do części 2
+13. **Na jakich zasadach odbywa się pomiar u klienta?** Ustalone 30.09.2026: **bezpłatnego pomiaru firma nie oferuje** — wszystkie wzmianki o nim zostały z tego planu usunięte. Do rozstrzygnięcia zostaje, jak to komunikować: pomiar płatny osobno, wliczony w cenę zamówienia, czy odliczany od wartości zamówienia przy jego złożeniu. Od tej odpowiedzi zależy zapis w opisie firmy (pkt. 1.2), w usłudze „Pomiar i wycena" (pkt. 1.3), w Q&A nr 4 (pkt. 1.8) i w poście z tygodnia 4 (pkt. 1.9)
 
 ---
 
