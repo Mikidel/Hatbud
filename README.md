@@ -9,6 +9,7 @@ sprzedaż i montaż okien, drzwi, bram garażowych, rolet, pokryć dachowych i r
 |---|---|
 | [`docs/plan-wizytowka-google-maps.md`](docs/plan-wizytowka-google-maps.md) | Część 1 — audyt i plan pozycjonowania wizytówki Google (Mapy) |
 | _w przygotowaniu_ | Część 2 — audyt i plan SEO strony `hatbud.pl` |
+| [`docs/facebook-opis-strony.md`](docs/facebook-opis-strony.md) | Teksty na stronę firmową na Facebooku (biogram, opis, kategorie, NAP) |
 
 ## Kontekst
 
